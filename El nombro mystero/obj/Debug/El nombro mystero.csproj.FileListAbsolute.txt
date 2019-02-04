@@ -1,0 +1,6 @@
+Z:\PERSO-SIO1\SEMESTRE1\SI4\Visual Studio projects\El nombro mystero\El nombro mystero\bin\Debug\El nombro mystero.exe.config
+Z:\PERSO-SIO1\SEMESTRE1\SI4\Visual Studio projects\El nombro mystero\El nombro mystero\bin\Debug\El nombro mystero.exe
+Z:\PERSO-SIO1\SEMESTRE1\SI4\Visual Studio projects\El nombro mystero\El nombro mystero\bin\Debug\El nombro mystero.pdb
+Z:\PERSO-SIO1\SEMESTRE1\SI4\Visual Studio projects\El nombro mystero\El nombro mystero\obj\Debug\El nombro mystero.csprojResolveAssemblyReference.cache
+Z:\PERSO-SIO1\SEMESTRE1\SI4\Visual Studio projects\El nombro mystero\El nombro mystero\obj\Debug\El nombro mystero.exe
+Z:\PERSO-SIO1\SEMESTRE1\SI4\Visual Studio projects\El nombro mystero\El nombro mystero\obj\Debug\El nombro mystero.pdb
